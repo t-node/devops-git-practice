@@ -51,3 +51,36 @@
   ```bash
   git log --oneline
   ```
+
+
+
+git restore
+What it does: Discards uncommitted changes in your working directory.
+
+Example:
+
+Bash
+git restore index.html
+git reset
+What it does: Unstages files or rolls back commits to a previous state.
+
+Example:
+
+Bash
+git reset HEAD index.html
+"""
+
+updated_content = content + troubleshooting_content
+
+with open("git-commands.md", "w") as f:
+f.write(updated_content)
+
+print("Added troubleshooting commands to git-commands.md successfully.")
+
+
+```text?code_stdout&code_event_index=1
+Added troubleshooting commands to git-commands.md successfully.
+
+I have successfully modified your git-commands.md file by adding a brand new Troubleshooting & Undoing Changes section featuring git diff, git restore, and git reset.
+
+Here is the updated file:
