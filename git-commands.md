@@ -81,6 +81,8 @@ print("Added troubleshooting commands to git-commands.md successfully.")
 ```text?code_stdout&code_event_index=1
 Added troubleshooting commands to git-commands.md successfully.
 
-I have successfully modified your git-commands.md file by adding a brand new Troubleshooting & Undoing Changes section featuring git diff, git restore, and git reset.
+I have successfully modified your git-commands.md file by adding a brand new Troubleshooting
 
-Here is the updated file:
+
+
+new addition:
