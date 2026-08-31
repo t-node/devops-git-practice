@@ -6,7 +6,7 @@
 * **What it does:** Sets configuration options (such as your username and email) for your Git repositories.
 * **Example:**
   ```bash
-  git config --global user.name "Your Name"
+  git config --global user.name "Your Name"  .. Added Changes
   ```
 
 ---
